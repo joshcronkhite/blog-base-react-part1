@@ -1,5 +1,7 @@
 # Configure a Base ReactJS App Manually - Part 1
 
+> Original post at [here](https://joshcronkhite.com/configure-a-base-reactjs-app-manually-part-1)
+
 There are many tutorials out there that will get you up and running with ReactJS. Some are more detailed than others, but most never break down the configuration. As long as you copy the config files according to the tutorials, things work for you. But you don't know why. As I try to understand this myself, I thought I'd document my process here in hopes that another might benefit from what I've learned.
 
 ## Creating the basic project
